@@ -1,7 +1,7 @@
 rgsimulator
 ===========
 
-Test how your bot behaves in certain situations. 
+Test how your bot behaves in certain situations. Forked from mpeterv's original rgsimulator to add the ability to import matches from robotgame.net. See additional keys (L, K, P, O) for additional functionality.
 
 (latest) rgkit is needed to use it. If you don't have it, grab it from [here](https://github.com/WhiteHalmos/rgkit) and install as a module. 
 
